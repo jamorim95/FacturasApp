@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FacturasApp</string>
+    <string name="novo_produto">Novo   produto</string>
+    <string name="nova_factura">Nova factura</string>
+    <string name="apagar_produto">Apagar produto</string>
+    <string name="apagar_factura">Apagar factura</string>
+    <string name="listar_produtos">Listar produtos</string>
+    <string name="listar_facturas">Listar facturas</string>
+    <string name="editar_produto">Editar produto</string>
+    <string name="editar_factura">Editar factura</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_register">Registar</string>
+    <string name="error_invalid_user">This username is invalid</string>
+    <string name="error_non_existant_user">Unknown username!</string>
+    <string name="error_alreadyUsed_user">This username is already used</string>
+    <string name="error_invalid_password">This password is too short!</string>
+    <string name="error_empty_password">Password cannot be empty</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_empty_username">Username cannot be empty</string>
+    <string name="error_short_username">This username is too short!</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_novo_produto">Novo Produto</string>
+
+    <string name="action_goBack">Back</string>
+
+
+    <!--  FORMULÁRIO DE NOVA FACTURA -->
+    <string name="label_designacao">Designação *</string>
+    <string name="label_comentario">Comentário *</string>
+    <string name="label_valor">Valor *</string>
+    <string name="title_activity_user_settings">User Settings</string>
+
+    <string name="user_is_public_str">Perfil visível</string>
+    <string name="settings_goBack">Voltar</string>
+    <string name="settings_change_username">Modificar username</string>
+    <string name="settings_change_password">Modificar password</string>
+    <string name="title_facturaelement_list">FacturaElements</string>
+    <string name="title_facturaelement_detail">FacturaElement Detail</string>
+    <string name="title_produtoelement_list">Lista de produtos</string>
+    <string name="title_produtoelement_detail">ProdutoElement Detail</string>
+    <string name="title_activity_editar_produto">Editar Produto</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_apagar_produto">Apagar Produto</string>
+    <string name="title_activity_nova_factura">Nova Factura</string>
+
+
+</resources>
