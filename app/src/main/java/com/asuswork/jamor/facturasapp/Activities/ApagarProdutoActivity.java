@@ -1,4 +1,4 @@
-// cenas
+
 package com.asuswork.jamor.facturasapp.Activities;
 
 import android.content.Intent;
@@ -27,7 +27,6 @@ import java.util.ArrayList;
 public class ApagarProdutoActivity extends AppCompatActivity {
 
     private String mUsername;
-    private String asd;
     private SQLiteDatabase mDatabase_produto;
     private SQLiteDatabase mDatabase_relacaoFacturaProduto;
 
